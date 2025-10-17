@@ -11,7 +11,7 @@ Autores
 Identificação da atividade
 - Disciplina: Inteligência Artificial
 - Curso: Engenharia da Computação
-- Professor(a): Ionara
+- Professor(a): YONARA COSTA
 - Local: São Luís, MA
 - Ano: 2025
 - Tipo: Atividade Avaliativa
