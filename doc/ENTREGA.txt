@@ -27,4 +27,4 @@ Observações:
 - O sistema é baseado em regras e regex para extrair números e expressões.
 - Para dúvidas ou testes, utilize as entradas de exemplo descritas no README.md.
 
-Boa sorte na avaliação!
+
