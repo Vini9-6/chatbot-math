@@ -1,0 +1,30 @@
+ATIVIDADE AVALIATIVA - Inteligência Artificial
+
+Curso: Engenharia da Computação
+Disciplina: Inteligência Artificial
+Professor(a): Ionara
+Local: São Luís - MA
+Ano: 2025
+
+Autores:
+- Vinícius Oliveira
+- Luys Arthur Serejo
+- Henzo Lucas
+- Ryan Reis
+
+Descrição:
+Implementação de um chatbot educacional por regras para revisão de Matemática Básica.
+
+Arquivos principais:
+- chatbot_matematica.py : script principal do chatbot
+- README.md : documentação e instruções de uso
+
+Como executar:
+1. Abra PowerShell e navegue até a pasta do projeto.
+2. Execute: python chatbot_matematica.py
+
+Observações:
+- O sistema é baseado em regras e regex para extrair números e expressões.
+- Para dúvidas ou testes, utilize as entradas de exemplo descritas no README.md.
+
+Boa sorte na avaliação!
